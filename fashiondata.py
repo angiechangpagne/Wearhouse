@@ -5,7 +5,7 @@ This python file is responsible for the image processing
 import cv2
 import numpy as np
 import pandas as pd
-from hyper_parameters import *
+from hyperprocessing import *
 
 shuffle = True
 localization = FLAGS.is_localization
